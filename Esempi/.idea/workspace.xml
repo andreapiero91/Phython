@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cf65aa06-a219-4abd-adcc-8cc3aa73a3a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YqziYSLQctTYQEgH9nHBR7OFfQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/Tesi/Versione_base/ec2s-master" />
+  </component>
+  <component name="RunManager" selected="Python.Calcolatrice">
+    <configuration name="Calcolatrice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Esempi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Andrea\PycharmProjects\Esempi\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calcolatrice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Esempio_base" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Esempi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Andrea\PycharmProjects\Esempi\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Esempio_base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Funzioni" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Esempi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Andrea\PycharmProjects\Esempi\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Funzioni.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Linea_comando" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Esempi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Linea_comando.py" />
+      <option name="PARAMETERS" value="ciao mamma" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Esempi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Andrea\PycharmProjects\Esempi\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Esempio_base.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Calcolatrice" />
+      <item itemvalue="Python.Esempio_base" />
+      <item itemvalue="Python.Funzioni" />
+      <item itemvalue="Python.Linea_comando" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Calcolatrice" />
+        <item itemvalue="Python.Linea_comando" />
+        <item itemvalue="Python.Funzioni" />
+        <item itemvalue="Python.Esempio_base" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cf65aa06-a219-4abd-adcc-8cc3aa73a3a4" name="Default Changelist" comment="" />
+      <created>1583685039773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583685039773</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584530486464">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1584530486464" />
+    <state x="750" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583870912994">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="750" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1583870912994" />
+    <state x="420" y="48" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1584530463625">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="48" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.680@0.0.1280.680" timestamp="1584530463625" />
+    <state x="585" y="99" key="#xdebugger.evaluate" timestamp="1584530786972">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="585" y="99" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1584530786972" />
+    <state x="420" y="98" key="FileChooserDialogImpl" timestamp="1584548876467">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1584548876467" />
+    <state x="630" y="150" key="FileChooserDialogImpl/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1584523414820" />
+    <state width="1259" height="97" key="GridCell.Tab.0.bottom" timestamp="1584550375958">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="97" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584550375958" />
+    <state width="1259" height="97" key="GridCell.Tab.0.center" timestamp="1584550375958">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="97" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584550375958" />
+    <state width="1259" height="97" key="GridCell.Tab.0.left" timestamp="1584550375958">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="97" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584550375958" />
+    <state width="1259" height="97" key="GridCell.Tab.0.right" timestamp="1584550375958">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="97" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584550375958" />
+    <state width="870" height="204" key="GridCell.Tab.1.bottom" timestamp="1584530834796">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="870" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584530834796" />
+    <state width="870" height="204" key="GridCell.Tab.1.center" timestamp="1584530834795">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="870" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1584530834795" />
+    <state width="870" height="204" key="GridCell.Tab.1.left" timestamp="1584530834795">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="870" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1584530834795" />
+    <state width="870" height="204" key="GridCell.Tab.1.right" timestamp="1584530834796">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="870" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1584530834796" />
+    <state x="522" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1584557019118">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="348" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584549731461" />
+    <state x="522" y="257" key="com.intellij.ide.util.TipDialog/1920.0.1280.693/0.0.1920.1040@0.0.1920.1040" timestamp="1584557019118" />
+    <state x="216" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1584530322500">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="216" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1584530322500" />
+    <state x="493" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1584530778594">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="493" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1584530778594" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Funzioni.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
